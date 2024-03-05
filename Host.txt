@@ -1,21 +1,23 @@
-# ------------------------------------[ ОБНОВЛЕНИЕ]--------------------------------------
-# Название: The Block List Project - Список порнофильмов
-# Общее количество сетевых фильтров: 500280
-# ------------------------------------[ ПОДДЕРЖКА]-------------------------------------
-# Вы можете поддержать с помощью:
-# - сообщение о ложных срабатываниях
-# - внесение пожертвования: https://paypal.me/blocklistproject
-# -------------------------------------[ ИНФОРМАЦИЯ]---------------------------------------
-#
-# Список порнофильмов
-# ------------------------------------[ ФИЛЬТРЫ]-------------------------------------
-0.0.0.0 0----q.tumblr.com
-0.0.0.0 0--liamariejohnson--0.nedrobin.net
-0.0.0.0 0-0-adult-superstore.com
-0.0.0.0 0-0wearingglassesnakedmen.tumblr.com
-0.0.0.0 0-200.com
-0.0.0.0 0-800-go-fuck-yourself.tumblr.com
-0.0.0.0 0-adultfriendfinder.com
-0.0.0.0 0-baise-amateur.com
-0.0.0.0 ✓ 0.0.0.0 0-decadent-0.tumblr.com
-0.0.0.0 0-dix.com
+0.0.0.0 zaim.kz
+0.0.0.0 express-zaim.kz
+0.0.0.0 zaimer.kz
+0.0.0.0 gdezaim.kz
+0.0.0.0 touchzaim.kz
+0.0.0.0 alicredit.kz
+0.0.0.0 www.moneyman.kz
+0.0.0.0 www.mikrokrediti24.kz
+0.0.0.0 www.tengezaim.kz
+0.0.0.0 timezaim.kz
+0.0.0.0 zaimtime.kz
+0.0.0.0 alicredit.kz
+0.0.0.0 www.zaimer.kz
+0.0.0.0 www.kredit5min.kz
+0.0.0.0 mega-zaim.kz
+0.0.0.0 www.qaryzzaim.kz
+0.0.0.0 zaim-fast.kz
+0.0.0.0 zaim-onlain.kz
+0.0.0.0 www.soso.kz
+0.0.0.0 www.soscredit.kz
+0.0.0.0 creditplus.kz
+0.0.0.0 creditbar.kz
+0.0.0.0 acredit.kz
