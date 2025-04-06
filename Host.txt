@@ -1,23 +1,23 @@
-0.0.0.0 zaim.kz
-0.0.0.0 express-zaim.kz
-0.0.0.0 zaimer.kz
-0.0.0.0 gdezaim.kz
-0.0.0.0 touchzaim.kz
-0.0.0.0 alicredit.kz
-0.0.0.0 www.moneyman.kz
-0.0.0.0 www.mikrokrediti24.kz
-0.0.0.0 www.tengezaim.kz
-0.0.0.0 timezaim.kz
-0.0.0.0 zaimtime.kz
-0.0.0.0 alicredit.kz
-0.0.0.0 www.zaimer.kz
-0.0.0.0 www.kredit5min.kz
-0.0.0.0 mega-zaim.kz
-0.0.0.0 www.qaryzzaim.kz
-0.0.0.0 zaim-fast.kz
-0.0.0.0 zaim-onlain.kz
-0.0.0.0 www.soso.kz
-0.0.0.0 www.soscredit.kz
-0.0.0.0 creditplus.kz
-0.0.0.0 creditbar.kz
-0.0.0.0 acredit.kz
+||zaim.kz
+||express-zaim.kz
+||zaimer.kz
+||gdezaim.kz
+||touchzaim.kz
+||alicredit.kz
+||www.moneyman.kz
+||www.mikrokrediti24.kz
+||www.tengezaim.kz
+||timezaim.kz
+||zaimtime.kz
+||alicredit.kz
+||www.zaimer.kz
+||www.kredit5min.kz
+||mega-zaim.kz
+||www.qaryzzaim.kz
+||zaim-fast.kz
+||zaim-onlain.kz
+||www.soso.kz
+||www.soscredit.kz
+||creditplus.kz
+||creditbar.kz
+||acredit.kz
